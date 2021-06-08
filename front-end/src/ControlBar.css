@@ -1,0 +1,4 @@
+.controlbar {
+    display: flex;
+    flex-direction: row;
+}

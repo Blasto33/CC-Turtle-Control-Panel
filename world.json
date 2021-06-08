@@ -1,0 +1,33 @@
+{
+  "turtles": [
+    {
+      "name": "hades",
+      "inventory": ["nothing", "dirt block", "diamond", "",
+                    "", "", "", "", 
+                    "", "", "", "", 
+                    "", "", "", ""
+                   ]
+    },
+    {
+      "name": "persephone",
+      "inventory": ["nothing", "dirt block", "diamond", "",
+                    "", "", "", "", 
+                    "", "", "", "", 
+                    "", "", "", ""
+                   ]
+    },
+    {
+      "name": "achilles",
+      "inventory": ["nothing", "dirt block", "diamond", "",
+                    "", "", "", "", 
+                    "", "", "", "", 
+                    "", "", "", ""
+                   ]
+    }
+  ],
+  "map": [
+    {
+      
+    }
+  ]
+}
